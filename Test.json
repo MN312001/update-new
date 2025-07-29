@@ -1,23 +1,12 @@
 {
-  "mhmd_update": [
-    {
- "Version":"3.0",
- "Title":"Update New",
- "Description":"☰ تحديث جديد 🆕
-
- | النسخة الرسمية : v 3.0 |
-
- ❏ التغيرات في التطبيق ⚙️
-  
- 1- تم اصلاح جميع المشاكل 🛠️
- 2- تم تقديم ميزات جديدة 💥
- 
- 🔗 يمكنك التحميل برابط مباشر بالضغط على كلمة تحديث 📥.
- 
- 🔗 يمكنك التحميل من قناة التيليجرام @APK_MN312001 💥.
-  
- شكرا للاستخدام ❤️.",
-"Download":"https://shortyfi.link/Photoroom"
-}
-  ]
+  "showDialog": true,
+  "versionCode": 2,
+  "versionName": "0.5.9",
+  "forceUpdate": true,
+  "changelogTitle": "Default Update",
+  "changelog": "⟢ new app better this\n⟢ new UI design upload\n⟢ awesome branding",
+  "patchedBy": "Patched By Yammy Mods",
+  "updateButtonText": "Update Now",
+  "laterButtonText": "Later",
+  "updateUrl": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE_ID"
 }
