@@ -1,8 +1,8 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "versionCode": 2,
   "versionName": "0.5.9",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "changelogTitle": "Default Update",
   "changelog": "⟢ new app better this\n⟢ new UI design upload\n⟢ awesome branding",
   "patchedBy": "Patched By Ismail Mods",
