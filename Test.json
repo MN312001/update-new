@@ -1,12 +1,12 @@
 {
   "showDialog": true,
-  "versionCode": 2,
-  "versionName": "0.5.9",
-  "forceUpdate": false,
+  "versionCode": 2024122801,
+  "versionName": "2.332",
+  "forceUpdate": true,
   "changelogTitle": "Update Available",
-  "changelog": "⟢ new app better this\n⟢ new UI design upload\n⟢ awesome branding",
+  "changelog": "☰ Official update: 14.8.0-14801616\n\n❏ Changes in the application: ↓\n\n1- Some problems have been fixed.\n\n2- Improved smoothness and performance.\n\n3- Upload to the latest version in the store.\n\n🔗 Follow Telegram channel to get more of Apps: @APK_MN312001.\n\n→ Thank you for using our modification ❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
-  "updateUrl": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE_ID"
+  "updateUrl": "https://go.arlinks.in/CapCut"
 }
