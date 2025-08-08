@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "versionCode": 14900400,
   "versionName": "14.9.0",
   "forceUpdate": false,
