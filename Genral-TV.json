@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "versionCode": 2000010,
-  "versionName": "2.3",
-  "forceUpdate": false,
-  "changelogTitle": "Update Available 2.3",
+  "versionName": "2.3-Fix",
+  "forceUpdate": true,
+  "changelogTitle": "Update Available 2.3-Fix",
   "changelog": "☰ Official update 📥\n\n→ Thank you for using our modification ❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
