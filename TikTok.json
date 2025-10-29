@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "versionCode": 2024203030,
   "versionName": "42.3.3",
   "forceUpdate": true,
