@@ -1,9 +1,9 @@
 {
-  "showDialog": true,
-  "versionCode": 200015,
-  "versionName": "2.4",
+  "showDialog": false,
+  "versionCode": 200016,
+  "versionName": "2.5",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 2.4-Mobile",
+  "changelogTitle": "Update Available 2.5-Mobile",
   "changelog": "☰ Official update 📥\n\n→ Thank you for using our modification ❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
