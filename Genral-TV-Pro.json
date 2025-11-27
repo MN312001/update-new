@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "versionCode": 2000011,
   "versionName": "2.5",
   "forceUpdate": true,
@@ -8,5 +8,5 @@
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
-  "updateUrl": "https://shortxlinks.in/Genral-TV-Pro"
+  "updateUrl": "https://go.arlinks.in/Genral-TV-Pro"
 }
