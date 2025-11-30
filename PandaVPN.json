@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "versionCode": 25112401,
   "versionName": "8.2.4",
   "forceUpdate": true,
@@ -8,5 +8,5 @@
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
-  "updateUrl": "https://go.arlinks.in/PandaVPN"
+  "updateUrl": "https://shortxlinks.in/PandaVPN"
 }
