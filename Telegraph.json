@@ -1,9 +1,9 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "versionCode": 629820,
-  "versionName": "12.2.3.0",
+  "versionName": "12.2.10.0",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 12.2.3.0",
+  "changelogTitle": "Update Available 12.2.10.0",
   "changelog": "☰ Changes in the application: ↓\n1- Some problems have been fixed.\n2- Improved smoothness and performance.\n3- Upload to the latest version in the store.\n🔗 Follow Telegram channel to get more of Apps: @APK_MN312001.\n→ Thank you for using our modification ❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
