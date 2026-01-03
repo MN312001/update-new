@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "versionCode": 26010102,
   "versionName": "8.5.2",
   "forceUpdate": true,
