@@ -1,12 +1,12 @@
 {
-  "showDialog": true,
-  "versionCode": 16400400,
-  "versionName": "16.4.0",
+  "showDialog": false,
+  "versionCode": 16500100,
+  "versionName": "16.5.0",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 16.4.0-400",
+  "changelogTitle": "Update Available 16.5.0-Beta",
   "changelog": "☰ Changes in the application: ↓\n1- Some problems have been fixed.\n2- Improved smoothness and performance.\n3- Upload to the latest version in the store.\n🔗 Follow Telegram channel to get more of Apps: @APK_MN312001.\n→ Thank you for using our modification ❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
-  "updateUrl": "https://shortxlinks.in/CapCut"
+  "updateUrl": "https://shortxlinks.in/CapCut-v8a"
 }
