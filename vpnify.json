@@ -1,10 +1,10 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "versionCode": 228004,
   "versionName": "2.2.8",
   "forceUpdate": true,
   "changelogTitle": "Update Available 2.2.8-228004",
-  "changelog": "☰ Changes in the application: ↓\n1- Some problems have been fixed.\n2- Improved smoothness and performance.\n3- Upload to the latest version in the store.\n🔗 Follow Telegram channel to get more of Apps: @APK_MN312001.\n→ Thank you for using our modification ❤️.",
+  "changelog": "➜ Google Play Builder Update 2.2.8-228004.\n➜ Supports all processors: v7a, v8a, x86, and x86_64.\n➜ Thank you for using our modification @APK_MN312001❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
