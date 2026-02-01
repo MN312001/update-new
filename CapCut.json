@@ -1,10 +1,10 @@
 {
   "showDialog": false,
-  "versionCode": 16700100,
+  "versionCode": 16700300,
   "versionName": "16.7.0",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 16.7.0-100",
-  "changelog": "➜ Google Play Builder Update 16.7.0-100.\n➜ Fix internet error.\n➜ Business mode must be activated.\n➜ Thank you for using our modification @APK_MN312001❤️.",
+  "changelogTitle": "Update Available 16.7.0-300",
+  "changelog": "➜ Fixed the background deletion issue and fixed the effects application.\n➜ Business mode must be activated.\n➜ Fixed internet error.\n➜ Thank you for using our modification @APK_MN312001❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
