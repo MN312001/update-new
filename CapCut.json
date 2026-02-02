@@ -1,6 +1,6 @@
 {
-  "showDialog": false,
-  "versionCode": 16700300,
+  "showDialog": true,
+  "versionCode": 16700100,
   "versionName": "16.7.0",
   "forceUpdate": true,
   "changelogTitle": "Update Available 16.7.0-300",
