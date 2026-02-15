@@ -1,11 +1,11 @@
 {
-  "showDialog": true,
-  "versionCode": 228004,
-  "versionName": "2.2.8",
+  "showDialog": false,
+  "versionCode": 229006,
+  "versionName": "2.2.9",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 2.2.8-228004",
-  "changelog": "➜ Supports all processors: v7a, v8a, x86, and x86_64.\n➜ Thank you for using our modification @APK_MN312001❤️.",
-  "patchedBy": "Patched By Ismail Mods",
+  "changelogTitle": "Update Available 2.2.9-229006",
+  "changelog": "➜ Supports all processors: v7a, v8a, x86, and x86_64.\n➜ Please update to continue working❤️.",
+  "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
   "updateUrl": "https://shortxlinks.in/vpnify"
