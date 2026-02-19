@@ -1,10 +1,10 @@
 {
   "showDialog": true,
   "versionCode": 2024309030,
-  "versionName": "43.9.3",
+  "versionName": "43.9.3-Fix",
   "forceUpdate": true,
-  "changelogTitle": "Update MN-TikTok Available 43.9.3",
-  "changelog": "➜ Add Tako.\n➜ Full patch update.\n➜ Activate tako, set the country to Türkiye.\n➜ Please update to continue working❤️.",
+  "changelogTitle": "Update MN-TikTok 43.9.3-Fix",
+  "changelog": "➜ The old version must be deleted before installing the new one.\n➜ Fixing the disappearance of followers.\n➜ Fix internet connection and crashes.\n➜ Please update to continue working❤️.",
   "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
