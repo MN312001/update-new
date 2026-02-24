@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "versionCode": 20260224,
   "versionName": "MN-2026.02.24",
   "forceUpdate": true,
