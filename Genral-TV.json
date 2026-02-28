@@ -1,10 +1,10 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "versionCode": 200018,
   "versionName": "2.8",
   "forceUpdate": true,
   "changelogTitle": "Update Genral-Mobile 2.8",
-  "changelog": "➜ Latest version of the Google Play Store.\n➜ Please update to continue working❤️.",
+  "changelog": "➜ Latest version and complete fix.\n➜ Please update to continue working❤️.",
   "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
