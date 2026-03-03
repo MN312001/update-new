@@ -1,12 +1,12 @@
 {
-  "showDialog": true,
-  "versionCode": 63429,
-  "versionName": "12.2.11",
+  "showDialog": false,
+  "versionCode": 65739,
+  "versionName": "12.5.0",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 12.2.11",
+  "changelogTitle": "Update Available 12.5.0",
   "changelog": "☰ Changes in the application: ↓\n1- Some problems have been fixed.\n2- Improved smoothness and performance.\n3- Upload to the latest version in the store.\n🔗 Follow Telegram channel to get more of Apps: @APK_MN312001.\n→ Thank you for using our modification ❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
   "laterButtonText": "Later",
-  "updateUrl": "https://shortxlinks.in/Telegram-Web"
+  "updateUrl": "https://shortxlinks.in/Telegram"
 }
