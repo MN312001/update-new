@@ -1,9 +1,9 @@
 {
-  "showDialog": true,
-  "versionCode": 228,
-  "versionName": "3.4.9",
+  "showDialog": false,
+  "versionCode": 235,
+  "versionName": "3.5.0",
   "forceUpdate": true,
-  "changelogTitle": "Update Available 3.4.9",
+  "changelogTitle": "Update Available 3.5.0",
   "changelog": "➜ Bypass regional restrictions.\n➜ Bypass VPN connection.\n➜ Thank you for using @APK_MN312001❤️.",
   "patchedBy": "Patched By Ismail Mods",
   "updateButtonText": "Update Now",
