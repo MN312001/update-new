@@ -2,11 +2,11 @@
   "showDialog": true,
   "versionCode": 75450110,
   "versionName": "7.54.0.75450110",
-  "forceUpdate": true,
-  "delayMinutes": 0,
+  "forceUpdate": false,
+  "delayMinutes": 5,
   "changelogTitle": {
-    "en": "Update SnapTube New ✅️",
-    "ar": "تحديث سناب تيوب الجديد ✅️"
+    "en": "Update SnapTube 7.55.0.75530310 ✅️",
+    "ar": "تحديث سناب تيوب 7.55.0.75530310 ✅️"
   },
   "changelog": {
     "en": "➜ Patch base update 13-04-2026.\n➜ Please update to continue working❤️.",
