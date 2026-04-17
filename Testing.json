@@ -3,7 +3,7 @@
   "versionName": "1.2.5",
   "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 0,
+  "delayMinutes": 1,
 
   "changelogTitle": {
     "en": "Update Available",
