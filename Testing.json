@@ -2,7 +2,7 @@
   "versionCode": 5,
   "versionName": "1.2.5",
   "showDialog": true,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "delayMinutes": 0,
 
   "changelogTitle": {
