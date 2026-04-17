@@ -1,0 +1,31 @@
+{
+  "versionCode": 5,
+  "versionName": "1.2.5",
+  "showDialog": true,
+  "forceUpdate": false,
+  "delayMinutes": 10,
+
+  "changelogTitle": {
+    "en": "Update Available",
+    "ar": "تحديث متوفر"
+  },
+
+  "changelog": {
+    "en": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features",
+    "ar": "• تصميم جديد\n• إصلاح الأخطاء\n• تحسين الأداء\n• ميزات جديدة"
+  },
+
+  "patchedBy": "Modded by Ismail Mods",
+
+  "updateButtonText": {
+    "en": "Update Now",
+    "ar": "تحديث الآن"
+  },
+
+  "laterButtonText": {
+    "en": "Later",
+    "ar": "لاحقًا"
+  },
+
+  "updateUrl": "https://your-update-link.com/app.apk"
+}
