@@ -3,11 +3,11 @@
   "versionName": "1.2.5",
   "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 1,
+  "delayMinutes": 0,
 
   "changelogTitle": {
-    "en": "Update Available",
-    "ar": "تحديث متوفر"
+    "en": "Update New Available",
+    "ar": "تحديث جديد متوفر"
   },
 
   "changelog": {
