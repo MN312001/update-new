@@ -1,9 +1,9 @@
 {
   "versionCode": 5,
   "versionName": "1.2.5",
-  "showDialog": false,
-  "forceUpdate": true,
-  "delayMinutes": 0,
+  "showDialog": true,
+  "forceUpdate": false,
+  "delayMinutes": 5,
 
   "changelogTitle": {
     "en": "Update New",
