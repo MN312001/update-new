@@ -1,12 +1,31 @@
 {
-  "showDialog": false,
-  "versionCode": 2024409030,
-  "versionName": "44.9.3",
-  "forceUpdate": true,
-  "changelogTitle": "Update MN-TikTok 44.9.3",
-  "changelog": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features\n• Please update to continue",
-  "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
-  "updateButtonText": "Update Now",
-  "laterButtonText": "Later",
-  "updateUrl": "https://shortxlinks.in/TikTok"
+"versionCode": 2024409030,
+"versionName": "44.9.3-F",
+"showDialog": false,
+"forceUpdate": true,
+"delayMinutes": 0,
+
+"changelogTitle": {
+"en": "Update MN-TikTok 44.9.3-Fix",
+"ar": "تحديث ام ان تيك توك 44.9.3-Fix"
+},
+
+"changelog": {
+"en": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features",
+"ar": "• تصميم جديد\n• إصلاح الأخطاء\n• تحسين الأداء\n• ميزات جديدة"
+},
+
+"patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
+
+"updateButtonText": {
+"en": "Update Now",
+"ar": "تحديث الآن"
+},
+
+"laterButtonText": {
+"en": "Later",
+"ar": "لاحقًا"
+},
+
+"updateUrl": "https://shortxlinks.in/TikTok"
 }
