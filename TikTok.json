@@ -1,7 +1,7 @@
 {
 "versionCode": 2024409030,
 "versionName": "44.9.3-F",
-"showDialog": false,
+"showDialog": true,
 "forceUpdate": true,
 "delayMinutes": 0,
 
