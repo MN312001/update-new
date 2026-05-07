@@ -1,1 +1,22 @@
-MN312001
+{
+  "users": [
+    {
+      "uuid": "0523cd37c4a05bdb",
+      "status": true,
+      "expiry": "2026-12-31",
+      "user": "MN312001"
+    },
+    {
+      "uuid": "9d7aa21f",
+      "status": true,
+      "expiry": "2026-12-31",
+      "user": "BM312001"
+    },
+    {
+      "uuid": "77cc91ee",
+      "status": false,
+      "expiry": "2026-12-31",
+      "user": "Abdo"
+    }
+  ]
+}
