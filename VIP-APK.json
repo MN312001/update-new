@@ -1,9 +1,11 @@
 {
+  "signature": "ce2e2fc4353d4fcf941a6df40ea640dcbe84daf760a70701c5bbea7c3eb7da4f",
+
   "users": [
     {
       "uuid": "55319e324fbba84ef1cd5aed007fb4a534ed275f67821767e2c24c9e2b6cb3ee",
       "status": true,
-      "expiry": "2026-07-05",
+      "expiry": "2026-06-05",
       "user": "MN312001"
     },
     {
