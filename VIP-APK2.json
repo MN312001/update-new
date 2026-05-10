@@ -7,10 +7,6 @@
     {
       "pkg": "com.locationchanger",
       "dex_hash": "f741e3dd9b9742b41dd378d4fd10579525262570174ecd68970234d32c9bad55"
-    },
-    {
-      "pkg": "com.locationchanger2",
-      "dex_hash": "5d64a9ba5a8a513e139abc9c8c38c60326f82c348c81664f6c597877a94a8d77"
-    },
+    }
   ]
 }
