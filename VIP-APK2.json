@@ -1,13 +1,16 @@
 {
-  "apps": {
-    "com.t2.AvailoHader": {
+  "apps": [
+    {
+      "pkg": "com.t2.AvailoHader",
       "dex_hash": "4ff3b4fd359118259bcc9d845cf10d6712e707d8e03415cdce133282c7e69b80"
     },
-    "com.locationchanger": {
-      "dex_hash": "eddfc7be8a15f41b5fa4550509e21f3c9fc786926a46b57654b2c7e9f22c9d51"
+    {
+      "pkg": "com.locationchanger",
+      "dex_hash": "5d64a9ba5a8a513e139abc9c8c38c60326f82c348c81664f6c597877a94a8d77"
     },
-    "com.app.three": {
-      "dex_hash": "HASH_APP_3"
-    }
-  }
+    {
+      "pkg": "com.locationchanger2",
+      "dex_hash": "5d64a9ba5a8a513e139abc9c8c38c60326f82c348c81664f6c597877a94a8d77"
+    },
+  ]
 }
