@@ -9,13 +9,15 @@
     "en": "Update New",
     "ar": "تحديث متوفر جديد"
   },
+
   "expirationText": {
-  "ar": "إصدار المود {version} انتهت صلاحيته!",
-  "en": "Your Mod Version {version} Is Expiration!"
+    "en": "Your Mod Version {version} Has Expired!",
+    "ar": "إصدار المود {version} انتهت صلاحيته!"
   },
+
   "whatsNewTitle": {
-  "ar": "ما الجديد",
-  "en": "What's New"
+    "en": "What's New",
+    "ar": "ما الجديد"
   },
 
   "changelog": {
@@ -24,8 +26,8 @@
   },
 
   "patchedBy": {
-  "ar": "تم التعديل بواسطة Ismail Mods",
-  "en": "Modded by Ismail Mods"
+    "en": "Modded by Ismail Mods",
+    "ar": "تم التعديل بواسطة Ismail Mods"
   },
 
   "updateButtonText": {
@@ -35,7 +37,7 @@
 
   "laterButtonText": {
     "en": "Later",
-    "ar": "لاحقًا"
+    "ar": "لاحقا"
   },
 
   "updateUrl": "https://your-update-link.com/app.apk"
