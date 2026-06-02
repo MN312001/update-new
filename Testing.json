@@ -9,13 +9,24 @@
     "en": "Update New",
     "ar": "تحديث متوفر جديد"
   },
+  "expirationText": {
+  "ar": "إصدار المود {version} انتهت صلاحيته!",
+  "en": "Your Mod Version {version} Is Expiration!"
+  },
+  "whatsNewTitle": {
+  "ar": "ما الجديد",
+  "en": "What's New"
+  },
 
   "changelog": {
     "en": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features",
     "ar": "• تصميم جديد\n• إصلاح الأخطاء\n• تحسين الأداء\n• ميزات جديدة"
   },
 
-  "patchedBy": "Modded by Ismail Mods",
+  "patchedBy": {
+  "ar": "تم التعديل بواسطة Ismail Mods",
+  "en": "Modded by Ismail Mods"
+  },
 
   "updateButtonText": {
     "en": "Update Now",
