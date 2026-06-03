@@ -3,7 +3,7 @@
   "versionName": "1.2.5",
   "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 1,
+  "delayMinutes": 5,
 
   "changelogTitle": {
     "en": "Update New",
@@ -38,6 +38,15 @@
   "laterButtonText": {
     "en": "Later",
     "ar": "لاحقا"
+  },
+  "updateLoadingText": {
+    "ar": "جاري التحديث، يرجى الانتظار...",
+    "en": "Updating, please wait..."
+  },
+
+  "laterDelayText": {
+    "ar": "تم إيقاف التحديث لمدة {minutes} دقائق",
+    "en": "Update paused for {minutes} minutes"
   },
 
   "updateUrl": "https://shortxlinks.com/TikTok"
