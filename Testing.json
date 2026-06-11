@@ -6,13 +6,13 @@
   "delayMinutes": 60,
 
   "changelogTitle": {
-    "en": "Update New",
-    "ar": "تحديث متوفر جديد"
+    "en": "Update MN-TikTok New",
+    "ar": "تحديث MN-TikTok جديد"
   },
 
   "expirationText": {
     "en": "Your Mod Version {version} Has Expired!",
-    "ar": "إصدار المود {version} انتهت صلاحيته!"
+    "ar": "إصدارك الحالي {version} قديم!"
   },
 
   "whatsNewTitle": {
@@ -22,12 +22,12 @@
 
   "changelog": {
     "en": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• New UI Design\n• Bug Fixes\n• Performance Improved\n• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features",
-    "ar": "• آخر التحديثات أولاً\n• روابط التحميل الرسمية\n• أخبار وإعلانات مهمة\n• متابعة مستمرة للمود\n• آخر التحديثات أولاً\n• روابط التحميل الرسمية\n• أخبار وإعلانات مهمة\n• متابعة مستمرة للمود\n• آخر التحديثات أولاً\n• روابط التحميل الرسمية\n• أخبار وإعلانات مهمة\n• متابعة مستمرة للمود\n• آخر التحديثات أولاً\n• روابط التحميل الرسمية\n• أخبار وإعلانات مهمة\n• متابعة مستمرة للمود\n• آخر التحديثات أولاً\n• روابط التحميل الرسمية\n• أخبار وإعلانات مهمة\n• متابعة مستمرة للمود"
-  },
+    "ar": "اضافات جديدة و حصرية \n تحسينات في الاداء والاستقرار \n اصلاحات للاخطاء المعروفة \nتجربة اكثر سلاسة و سرعة"
+    },
 
   "patchedBy": {
     "en": "Modded by Ismail Mods",
-    "ar": "تم التعديل بواسطة Ismail Mods"
+    "ar": "تم التعديل بواسطة محمد إسماعيل."
   },
 
   "updateButtonText": {
@@ -45,7 +45,7 @@
   },
 
   "laterDelayText": {
-    "ar": "تم إيقاف التحديث لمدة {minutes} دقائق",
+    "ar": "تم تأجيل التحديث لمدة {minutes} دقائق",
     "en": "Update paused for {minutes} minutes"
   },
 
