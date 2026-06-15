@@ -1,0 +1,38 @@
+{
+"enabled": true,
+"checkEveryHours": 1,
+"maxShowPerCheck": 1,
+"notifications": [
+{
+"id": "notice_1",
+"enabled": true,
+"repeat": "once",
+"title_ar": "رسالة من المطور",
+"body_ar": "شكراً لاستخدامك MN TikTok. نعمل دائماً على تحسين التجربة.",
+"title_en": "Message from Developer",
+"body_en": "Thank you for using MN TikTok. We are always improving the experience.",
+"link": ""
+},
+{
+"id": "notice_2",
+"enabled": true,
+"repeat": "daily",
+"title_ar": "تنبيه يومي",
+"body_ar": "تابع إعدادات المود للحصول على أفضل تجربة.",
+"title_en": "Daily Notice",
+"body_en": "Check the mod settings for the best experience.",
+"link": ""
+},
+{
+"id": "notice_3",
+"enabled": true,
+"repeat": "every_hours",
+"hours": 1,
+"title_ar": "تابع آخر التحديثات",
+"body_ar": "اضغط على الإشعار لمتابعة قناة التحديثات.",
+"title_en": "Follow Latest Updates",
+"body_en": "Tap the notification to follow the updates channel.",
+"link": "https://t.me/example"
+}
+]
+}
