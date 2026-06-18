@@ -11,7 +11,7 @@
   },
 
   "expirationText": {
-    "en": "Your Mod Version {version} Has Expired!",
+    "en": "Your current version {version} old!",
     "ar": "إصدارك الحالي {version} قديم!"
   },
 
