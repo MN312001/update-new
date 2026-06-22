@@ -1,7 +1,7 @@
 {
   "versionCode": 1561173333,
   "versionName": "21.20.402",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": false,
   "delayMinutes": 60,
 
