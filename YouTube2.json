@@ -1,12 +1,53 @@
 {
-  "showDialog": true,
-  "versionCode": 1561173312,
-  "versionName": "21.20.400",
-  "forceUpdate": true,
-  "changelogTitle": "Update MN-YouTube 21.20.400",
-  "changelog": "➜ Latest version of the Google Play Store.\n➜ Please update to continue working❤️.",
-  "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
-  "updateButtonText": "Update Now",
-  "laterButtonText": "Later",
+  "versionCode": 1561173333,
+  "versionName": "21.20.402",
+  "showDialog": false,
+  "forceUpdate": false,
+  "delayMinutes": 60,
+
+  "changelogTitle": {
+    "en": "Update MN-YouTube New",
+    "ar": "تحديث ام ان يوتيوب جديد"
+  },
+
+  "expirationText": {
+    "en": "Your current version {version} old!",
+    "ar": "إصدارك الحالي {version} قديم!"
+  },
+
+  "whatsNewTitle": {
+    "en": "What's New",
+    "ar": "ما الجديد"
+  },
+
+  "changelog": {
+    "en": "New and exclusive additions \n Improvements in performance and stability \n Corrections for known errors \n A smoother and faster experience",
+    "ar": "اضافات جديدة و حصرية \n تحسينات في الاداء والاستقرار \n اصلاحات للاخطاء المعروفة \n تجربة اكثر سلاسة و سرعة"
+    },
+
+  "patchedBy": {
+    "en": "Modded by Mohammad Ismail 🇸🇾",
+    "ar": "تم التعديل بواسطة محمد اسماعيل 🇸🇾"
+  },
+
+  "updateButtonText": {
+    "en": "Update Now",
+    "ar": "تحديث الآن"
+  },
+
+  "laterButtonText": {
+    "en": "Later",
+    "ar": "لاحقا"
+  },
+  "updateLoadingText": {
+    "ar": "جاري التحديث، يرجى الانتظار...",
+    "en": "Updating, please wait..."
+  },
+
+  "laterDelayText": {
+    "ar": "تم تأجيل التحديث لمدة {minutes} دقائق",
+    "en": "Update paused for {minutes} minutes"
+  },
+
   "updateUrl": "https://shortxlinks.in/YouTube2"
 }
