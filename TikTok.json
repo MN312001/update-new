@@ -1,31 +1,53 @@
 {
-"versionCode": 2024409030,
-"versionName": "44.9.3-F",
-"showDialog": false,
-"forceUpdate": false,
-"delayMinutes": 60,
+  "versionCode": 5,
+  "versionName": "1.2.5",
+  "showDialog": false,
+  "forceUpdate": false,
+  "delayMinutes": 0,
 
-"changelogTitle": {
-"en": "Update MN-TikTok 44.9.3-Fix",
-"ar": "تحديث ام ان تيك توك 44.9.3-Fix"
-},
+  "changelogTitle": {
+    "en": "Update MN-TikTok New",
+    "ar": "تحديث ام ان تيك توك جديد"
+  },
 
-"changelog": {
-"en": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features",
-"ar": "• تصميم جديد\n• إصلاح الأخطاء\n• تحسين الأداء\n• ميزات جديدة"
-},
+  "expirationText": {
+    "en": "Your current version {version} old!",
+    "ar": "إصدارك الحالي {version} قديم!"
+  },
 
-"patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
+  "whatsNewTitle": {
+    "en": "What's New",
+    "ar": "ما الجديد"
+  },
 
-"updateButtonText": {
-"en": "Update Now",
-"ar": "تحديث الآن"
-},
+  "changelog": {
+    "en": "New and exclusive additions \n Improvements in performance and stability \n Corrections for known errors \n A smoother and faster experience",
+    "ar": "اضافات جديدة و حصرية \n تحسينات في الاداء والاستقرار \n اصلاحات للاخطاء المعروفة \n تجربة اكثر سلاسة و سرعة"
+    },
 
-"laterButtonText": {
-"en": "Later",
-"ar": "لاحقًا"
-},
+  "patchedBy": {
+    "en": "Modded by Mohammad Ismail 🇸🇾",
+    "ar": "تم التعديل بواسطة محمد اسماعيل 🇸🇾"
+  },
 
-"updateUrl": "https://shortxlinks.in/TikTok"
+  "updateButtonText": {
+    "en": "Update Now",
+    "ar": "تحديث الآن"
+  },
+
+  "laterButtonText": {
+    "en": "Later",
+    "ar": "لاحقا"
+  },
+  "updateLoadingText": {
+    "ar": "جاري التحديث، يرجى الانتظار...",
+    "en": "Updating, please wait..."
+  },
+
+  "laterDelayText": {
+    "ar": "تم تأجيل التحديث لمدة {minutes} دقائق",
+    "en": "Update paused for {minutes} minutes"
+  },
+
+  "updateUrl": "https://shortxlinks.com/TikTok"
 }
