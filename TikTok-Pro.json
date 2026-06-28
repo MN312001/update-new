@@ -1,7 +1,7 @@
 {
 "versionCode": 440903,
 "versionName": "44.9.3-F",
-"showDialog": true,
+"showDialog": false,
 "forceUpdate": false,
 "delayMinutes": 60,
 
