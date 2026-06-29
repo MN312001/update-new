@@ -1,7 +1,7 @@
 {
   "versionCode": 2024507030,
   "versionName": "45.7.3",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": true,
   "delayMinutes": 0,
 
