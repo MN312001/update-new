@@ -2,7 +2,7 @@
   "versionCode": 450703,
   "versionName": "45.7.3",
   "showDialog": true,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "delayMinutes": 0,
 
   "changelogTitle": {
