@@ -2,7 +2,7 @@
   "users": [
     {
       "uuid": "MN-T37M-9S74-TFX6-YF2K-EDSN",
-      "status": false,
+      "status": true,
       "expiry": "2026-08-05",
       "user": "MN312001"
     },
