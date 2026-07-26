@@ -1,7 +1,7 @@
 {
   "versionCode": 460203,
   "versionName": "46.2.3",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": true,
   "delayMinutes": 0,
 
