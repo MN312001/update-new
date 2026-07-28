@@ -3,7 +3,7 @@
   "versionName": "12.9.1.1",
   "showDialog": false,
   "forceUpdate": false,
-  "delayMinutes": 120,
+  "delayMinutes": 60,
 
   "changelogTitle": {
     "en": "Update MN-Gram New",
