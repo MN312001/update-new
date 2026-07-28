@@ -1,7 +1,7 @@
 {
   "versionCode": 22440,
   "versionName": "12.9.1.1",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": false,
   "delayMinutes": 60,
 
