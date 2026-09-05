@@ -1,9 +1,9 @@
 {
-  "versionCode": 22440,
-  "versionName": "12.9.1.1",
+  "versionCode": 69919,
+  "versionName": "12.9.2",
   "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 60,
+  "delayMinutes": 10,
 
   "changelogTitle": {
     "en": "Update MN-Gram New",
