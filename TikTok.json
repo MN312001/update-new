@@ -1,9 +1,9 @@
 {
   "versionCode": 2024602030,
   "versionName": "46.2.3",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 0,
+  "delayMinutes": 30,
 
   "changelogTitle": {
     "en": "Update MN-TikTok New",
