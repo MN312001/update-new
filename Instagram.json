@@ -3,7 +3,7 @@
   "versionName": "2.0",
   "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 60,
+  "delayMinutes": 10,
 
   "changelogTitle": {
     "en": "Update MN-Instagram New",
