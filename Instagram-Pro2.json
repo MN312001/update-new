@@ -1,0 +1,53 @@
+{
+  "versionCode": 2,
+  "versionName": "2.1",
+  "showDialog": true,
+  "forceUpdate": false,
+  "delayMinutes": 10,
+
+  "changelogTitle": {
+    "en": "Update MN-Instagram Pro New",
+    "ar": "تحديث ام ان انستاغرام برو جديد"
+  },
+
+  "expirationText": {
+    "en": "Your current version {version} old!",
+    "ar": "إصدارك الحالي {version} قديم!"
+  },
+
+  "whatsNewTitle": {
+    "en": "What's New",
+    "ar": "ما الجديد"
+  },
+
+  "changelog": {
+    "en": "New and exclusive additions \n Improvements in performance and stability \n Corrections for known errors \n A smoother and faster experience",
+    "ar": "اضافات جديدة و حصرية \n تحسينات في الاداء والاستقرار \n اصلاحات للاخطاء المعروفة \n تجربة اكثر سلاسة و سرعة"
+    },
+
+  "patchedBy": {
+    "en": "Modded by Mohammad Ismail 🇸🇾",
+    "ar": "تم التعديل بواسطة محمد اسماعيل 🇸🇾"
+  },
+
+  "updateButtonText": {
+    "en": "Update Now",
+    "ar": "تحديث الآن"
+  },
+
+  "laterButtonText": {
+    "en": "Later",
+    "ar": "لاحقا"
+  },
+  "updateLoadingText": {
+    "ar": "جاري التحديث، يرجى الانتظار...",
+    "en": "Updating, please wait..."
+  },
+
+  "laterDelayText": {
+    "ar": "تم تأجيل التحديث لمدة {minutes} دقائق",
+    "en": "Update paused for {minutes} minutes"
+  },
+
+  "updateUrl": "https://shortxlinks.com/Instagram-Pro2"
+}
