@@ -1,9 +1,9 @@
 {
   "versionCode": 1,
-  "versionName": "1.0",
-  "showDialog": false,
-  "forceUpdate": false,
-  "delayMinutes": 120,
+  "versionName": "1.1",
+  "showDialog": true,
+  "forceUpdate": true,
+  "delayMinutes": 0,
 
   "changelogTitle": {
     "en": "Update MN-TikTok Pro New",
