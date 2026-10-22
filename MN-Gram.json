@@ -1,9 +1,9 @@
 {
   "versionCode": 3,
   "versionName": "3.0",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": false,
-  "delayMinutes": 10,
+  "delayMinutes": 150,
 
   "changelogTitle": {
     "en": "Update MN-Gram New",
