@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
-  "versionName": "2.1",
-  "showDialog": true,
+  "versionName": "2.0",
+  "showDialog": false,
   "forceUpdate": true,
-  "delayMinutes": 10,
+  "delayMinutes": 0,
 
   "changelogTitle": {
     "en": "Update MN-Instagram Pro New",
