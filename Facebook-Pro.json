@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "2.15",
-  "showDialog": false,
+  "showDialog": true,
   "forceUpdate": false,
   "delayMinutes": 30,
 
