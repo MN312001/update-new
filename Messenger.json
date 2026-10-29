@@ -2,8 +2,8 @@
   "versionCode": 2,
   "versionName": "2.15",
   "showDialog": true,
-  "forceUpdate": false,
-  "delayMinutes": 30,
+  "forceUpdate": true,
+  "delayMinutes": 60,
 
   "changelogTitle": {
     "en": "Update MN-Messenger New",
